@@ -1,0 +1,33 @@
+{
+  "name": "nestjs-boilerplate-otp",
+  "version": "1.0.0",
+  "description": "Easy start with Nest.js and One Time Password(OTP)",
+  "main": "./src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodeteamdev/nestjs-boilerplate-otp.git"
+  },
+  "keywords": [
+    "nestjs",
+    "otp",
+    "boilerplate",
+    "starter",
+    "api"
+  ],
+  "author": "Valerii Checha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodeteamdev/nestjs-boilerplate-otp/issues"
+  },
+  "homepage": "https://github.com/nodeteamdev/nestjs-boilerplate-otp#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "eslint": "^9.15.0",
+    "globals": "^15.12.0",
+    "prettier": "3.4.1",
+    "typescript-eslint": "^8.16.0"
+  }
+}
